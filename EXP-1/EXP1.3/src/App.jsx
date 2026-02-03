@@ -37,7 +37,7 @@ function App() {
         </p>
 
         <p className="info-text">
-          This is the 3 part of first experimental lab activity done in 23aml-2(a) FSD-2 lab.
+          This is the 3 part of first experimental lab activity done in 23AML-4(B) FSD-2 lab.
         </p>
         <p>
           -----------------------------------------------------
